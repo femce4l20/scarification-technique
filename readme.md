@@ -12,9 +12,9 @@
 * Irritant (Research this on your own to decide what to get.)
 
 ## Explination
-Gloves; Every time you touch anything that hasnt been cleaned properly, replace your gloves.
-Irritant; This is used to create keloid scarring
-Scalpel usage;
+* Gloves; Every time you touch anything that hasnt been cleaned properly, replace your gloves.
+* Irritant; This is used to create keloid scarring
+* Scalpel usage;
 1. go against the grain (against the direction body hair would fall) this is not universially accepted by everyone but this is simply what i was taught.
 2. start from the bottom of the stencil, upward
 3. aim for the mid-dermis (2nd layer of the skin) careful not to go too deep or too shallow, too deep causes uneven scarring and risk of infection, too shallow it will go away faster.
